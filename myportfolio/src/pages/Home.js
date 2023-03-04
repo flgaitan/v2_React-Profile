@@ -1,13 +1,21 @@
 import React from 'react'
 import Navbar from '../components/Navbar';
+import About from '../components/About';
+import MyProfile from '../components/MyProfile';
 
 function Home() {
   return (
     <>
+    <header>
     <Navbar/>
-    <h1>THis is home </h1>
+    </header>
+    <About/>
+    <MyProfile/>
+
     </>
+
   )
 }
+
 
 export default Home;

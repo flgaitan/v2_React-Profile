@@ -26,6 +26,22 @@
     border-radius: 7px;
 
  }
+ 
+ .links{
+    display: flex;
+    margin-top: 25px;
+
+ }
+
+ .github {
+    flex: 50%;
+
+ }
+
+ .web-link {
+    flex: 50%;
+
+ }
 
  .p-image img{
     width: 100%;

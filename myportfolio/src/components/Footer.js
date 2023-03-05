@@ -9,19 +9,17 @@ const Footer = () => {
                     <h1>Stay in touch</h1>
                 </div>
                 <div>
-                    <a href="/">
+                    <a href="https://github.com/flgaitan">
                         <i className="fa-brands fa-github"></i>
                     </a>
-                    <a href="/">
+                    <a href="https://www.linkedin.com/in/fiama-gaitan-220321112/">
                         <i className="fa-brands fa-linkedin"></i>
                     </a>
-                    <a href="/">
+                    <a href="https://twitter.com/FiLee_G">
                         <i className="fa-brands fa-twitter"></i>
                     </a>
                 </div>
             </div>
-
-                <div className="bottom"></div>
         </div>
     )
 }

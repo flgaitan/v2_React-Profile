@@ -3,7 +3,8 @@
     color: #2a2a2a;
 }
 .profile-section h1 {
-    font-size: 3rem;
+    font-size: 2rem;
+    color: teal;
 }
 
 .pcards{
@@ -35,13 +36,25 @@
 
  .github {
     flex: 50%;
-
+    margin-left: 1.5rem;
+ }
+ .github a {
+    color: teal;
+ }
+ .github a:hover {
+    color: rgb(244, 116, 11);
  }
 
  .web-link {
     flex: 50%;
-
+    margin-left: 10rem;
  }
+.web-link a {
+    color: teal;
+}
+.web-link a:hover {
+    color: rgb(244, 116, 11);
+}
 
  .p-image img{
     width: 100%;
@@ -57,6 +70,7 @@
  .p-card h4 {
     font-size: 1.3rem;
     padding: .9rem 0 .2rem 0;
+    color: rgb(244, 116, 11);
  }
 
 @media screen and (max-width: 850px){

@@ -10,12 +10,10 @@ function Home() {
   return (
     <>
     <Header/>
-
     <About/>
     <MyProfile/>
     <ContactForm/>
     <Resume/>
-
     <Footer/>
 
     </>

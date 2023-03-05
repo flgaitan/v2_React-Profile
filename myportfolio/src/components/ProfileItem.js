@@ -1,8 +1,7 @@
-
 import './ProfileStyles.css';
 
 
-function profileItem(props){
+function ProfileItem(props){
     return(
         <div className='p-card'>
             <div className='p-image'>

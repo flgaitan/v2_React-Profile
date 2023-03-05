@@ -16,6 +16,7 @@
     width: 55%;
     text-align: start;
     font-size: 1.1rem;
+    margin-bottom: 150px;
 }
 .about-text h2 {
     padding-bottom: 1rem;
@@ -46,6 +47,7 @@
     }
     .about-text{
         width: 100%;
+        margin-bottom: 0px;
     }
     .myImage {
         width: 100%;

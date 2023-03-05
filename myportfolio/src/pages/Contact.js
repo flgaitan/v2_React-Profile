@@ -1,14 +1,18 @@
 import React from 'react'
-import Navbar from '../components/Navbar';
+import Header from '../components/Header';
+//import Navbar from '../components/Navbar';
+import ContactForm from '../components/ContactForm';
+import Footer from '../components/Footer';
 
 function Contact() {
   return (
     <>
-    <Navbar/>
-    <h1>This is contact me </h1>
+    <Header/>
+    <ContactForm/>
+    <Footer/>
     </>
 
   )
-}
+};
 
 export default Contact;

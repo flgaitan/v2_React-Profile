@@ -1,15 +1,19 @@
 import React from 'react'
-import Navbar from '../components/Navbar';
+import Header from '../components/Header';
+import ResumeD from '../components/ResumeD';
+
+
+
+
 
 function Resume() {
   return (
-    <>      
-    <Navbar/>
-    <h1>THis is for resume </h1>
-    
-    </>
+    <>
+      <Header/>
+      <ResumeD/>
 
+    </>
   )
-}
+};
 
 export default Resume;

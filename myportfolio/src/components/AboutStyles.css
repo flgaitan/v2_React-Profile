@@ -2,9 +2,9 @@
     margin: 4rem 6rem;
 }
 .about-header h1 {
-    margin-top: 10rem;
     padding-bottom: 1rem;
     font-size: 3rem;
+    color: teal;
 }
 .about-section {
     display: flex;

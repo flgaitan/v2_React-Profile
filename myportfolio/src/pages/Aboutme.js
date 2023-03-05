@@ -1,15 +1,17 @@
 import React from 'react'
-import Navbar from '../components/Navbar';
+import Header from '../components/Header';
+import About from '../components/About';
+import Footer from '../components/Footer';
 
 function Aboutme() {
   return (
     <>      
-    <Navbar/>
-    <h1>This is About me </h1>
-    
+    <Header/>
+    <About/>
+    <Footer/>
     </>
 
   )
-}
+};
 
 export default Aboutme;

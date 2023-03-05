@@ -3,7 +3,7 @@ export const MenuItems = [
         title: "Home",
         url: "/",
         cName: "nav-links",
-        icon: "fa-solid fa-house-heart"
+        icon: "fa-sharp fa-solid fa-house-chimney"
     },
     {
         title: "About Me",

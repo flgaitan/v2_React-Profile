@@ -1,0 +1,33 @@
+.resume-container {
+    margin: 4rem 6rem;
+}
+
+.resume-container h1 {
+    color: teal;
+}
+
+.resume-container button {
+    display: inline;
+    height: 2.5rem;
+    font-size: 1rem;
+}
+
+.resume-container button:hover {
+    color: teal;
+}
+
+
+@media screen and (max-width: 850px){
+    .resume-container{
+        margin: 4rem 2rem;
+    }
+    .resume-container button {
+        display:inline-flex;
+        height: 2.5rem;
+        font-size: 1rem;
+    }
+    .resume-container button:hover {
+        color: teal;
+    }
+
+}

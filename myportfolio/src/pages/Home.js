@@ -1,21 +1,25 @@
 import React from 'react'
-import Navbar from '../components/Navbar';
+import Header from '../components/Header';
 import About from '../components/About';
-import MyProfile from '../components/MyProfile';
+import ContactForm from '../components/ContactForm';
+import Resume from './Resume';
+import Footer from '../components/Footer';
 
 function Home() {
   return (
     <>
-    <header>
-    <Navbar/>
-    </header>
+    <Header/>
+
     <About/>
-    <MyProfile/>
+    <ContactForm/>
+    <Resume/>
+
+    <Footer/>
 
     </>
 
   )
-}
+};
 
 
 export default Home;

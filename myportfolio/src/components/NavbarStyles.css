@@ -11,7 +11,8 @@
     top: 20px;
     left: 50%;
     transform: translate(-50%);
-    z-index: -9999;
+    z-index: 20000000000000;
+
 }
 
 .navbar-logo {
@@ -51,10 +52,6 @@
 }
 
 @media screen and (max-width: 850px){
-
-    .NavbarItems {
-        z-index: 99;
-    }
     .nav-menu {
         display: flex;
         flex-direction: column;
@@ -76,7 +73,6 @@
     .nav-menu.active{
         left: 0;
         opacity: 1;
-        z-index: -1;
         transition: 0.3s ease-in-out;
     }
 

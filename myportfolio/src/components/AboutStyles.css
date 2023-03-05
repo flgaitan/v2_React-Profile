@@ -28,7 +28,7 @@
     width: 50%;
     display: flex;
     justify-content: space-between;
-    z-index: -99;
+
 }
 
 .myImage img {

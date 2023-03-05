@@ -2,10 +2,10 @@ import Navbar from '../components/Navbar';
 import "./HeaderStyles.css"
 
 
-const Header = () => {
+const Header = ({navigatePage}) => {
     return(
         <div className="header">
-        <Navbar/>   
+        <Navbar navigatePage = {navigatePage}/>   
         </div>
     )
 };

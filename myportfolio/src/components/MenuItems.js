@@ -7,25 +7,25 @@ export const MenuItems = [
     },
     {
         title: "About Me",
-        url: "/aboutme",
+        url: "about",
         cName: "nav-links",
         icon: "fa-sharp fa-solid fa-circle-user"
     },
     {
         title: "Projects",
-        url: "/projects",
+        url: "projects",
         cName: "nav-links",
         icon: "fa-sharp fa-solid fa-display"
     },
     {
         title: "Contact",
-        url: "/contact",
+        url: "contact",
         cName: "nav-links",
         icon: "fa-sharp fa-solid fa-address-book"
     },
     {
         title: "Resume",
-        url: "/resume",
+        url: "resume",
         cName: "nav-links",
         icon: "fa-sharp fa-solid fa-file-import"
     },

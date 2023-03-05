@@ -12,8 +12,8 @@ export const MenuItems = [
         icon: "fa-sharp fa-solid fa-circle-user"
     },
     {
-        title: "Profile",
-        url: "/profile",
+        title: "Projects",
+        url: "/projects",
         cName: "nav-links",
         icon: "fa-sharp fa-solid fa-display"
     },

@@ -36,8 +36,3 @@ class Navbar extends Component {
 
 export default Navbar;
 
-
-//<i class="fa-sharp fa-solid fa-house-heart">HOME</i>
-
-// link to index html for icons before title  <link rel= link here>
- //https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css

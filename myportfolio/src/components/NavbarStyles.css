@@ -39,7 +39,7 @@
 .nav-links i {
     padding: 10px;
 }
-.nav-links:hover {
+.nav-links:hover{
     background-color: #01959a;
     color: #fff;
     border-radius: 4px;
@@ -90,6 +90,7 @@
         background-color: #01959a;
         transition: none;
     }
+
     .burgermenu-icon {
         display:block;
         cursor: pointer;
@@ -99,8 +100,5 @@
         font-size: 1.2rem;
         color: #222;
     }
-
-
-
 
 }

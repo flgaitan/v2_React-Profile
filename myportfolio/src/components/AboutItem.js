@@ -1,5 +1,4 @@
 import { Component } from 'react';
-import Headshot from "../assets/1.jpg";
 import "./AboutStyles.css";
 
 class AboutItem extends Component {

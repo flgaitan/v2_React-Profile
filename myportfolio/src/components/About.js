@@ -10,8 +10,8 @@ const About = ()  => {
 
             <AboutItem heading="About Me..." text="My name is Fiama Gaitan and I am a Full Stack Web Developer.
                     I graduated from Northwestern University Coding Bootcamp and
-                    I could not be more excited to take off into the career of my dreams." img1={Headshot} />
-        </div>
+                    I could not be more excited to take off into the career of my dreams." img1={Headshot}/>
+         </div>
 
     )
 }

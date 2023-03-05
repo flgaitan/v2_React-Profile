@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../components/Header';
 import About from '../components/About';
-import MyProfile from '../components/MyProfile';
+import MyProjects from '../components/MyProjects';
 import ContactForm from '../components/ContactForm';
 import Resume from './Resume';
 import Footer from '../components/Footer';
@@ -11,7 +11,7 @@ function Home() {
     <>
     <Header/>
     <About/>
-    <MyProfile/>
+    <MyProjects/>
     <ContactForm/>
     <Resume/>
     <Footer/>

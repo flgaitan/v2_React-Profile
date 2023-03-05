@@ -1,14 +1,14 @@
 import React from 'react'
 import Header from '../components/Header';
-import MyProfile from "../components/MyProfile"
+import MyProjects from "../components/MyProjects"
 import Footer from '../components/Footer';
 
 
-function Profile() {
+function Projects() {
   return (
     <>
     <Header/>
-    <MyProfile/>
+    <MyProjects/>
 
     <Footer/>
     </>
@@ -16,4 +16,4 @@ function Profile() {
   )
 };
 
-export default Profile;
+export default Projects;

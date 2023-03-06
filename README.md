@@ -38,6 +38,11 @@ npm i
 ## Usage
 
 - Deployed application link :
+https://flgaitan.github.io/v2_React-Profile/
+
+- GitHub repo:
+https://github.com/flgaitan/v2_React-Profile
+
 
 
 - npm run start : starts the page on the browser from VS code
@@ -48,6 +53,13 @@ npm i
 ## Credits
 
 - Collaboration with classmates, tutors, class recording and Youtube videos:
+
+https://www.youtube.com/watch?v=9VGnASEE8i8
+https://www.youtube.com/watch?v=x7mwVn2z3Sk
+https://www.youtube.com/watch?v=0dOSLhPzSGI&t=4819s
+https://www.youtube.com/watch?v=b9eMGE7QtTk
+https://www.youtube.com/watch?v=Ke90Tje7VS0
+https://www.youtube.com/watch?v=7WwtzsSHdpI&t=375s
 
 
 ## License

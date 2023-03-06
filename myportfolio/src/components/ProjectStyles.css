@@ -74,14 +74,56 @@
  }
 
 @media screen and (max-width: 850px){
+
     .profile-section{
         margin: 4rem 2rem;
     }
-    .p-card{
+    .pcards{
+        margin-top: 3rem;
+        display:flex;
         flex-direction: column;
+        justify-items: center;
+        align-items: center;
+    
+    }
+    
+    .p-card{
+        width: 90%;
+        text-align: center;
+        box-shadow: 0 5px 25px 2px rgba(0,  0, 0, .1);
+        cursor: pointer;
+        padding: 1rem .8rem;
+        margin-bottom: 1.5rem;
+    }
+     .p-image {
+        height: 200px;
+        overflow: hidden;
+        border-radius: 7px;
+    
+     }
+     
+     .links{
+        display: flex;
+        margin-top: 25px;
+    
+     }
+
+     .github {
+        flex: 50%;
+        margin-left: .9rem;
+     }
+
+     .web-link {
+        flex: 50%;
+        margin-left: 1rem;
+     }
+
+    /* .p-card{
+        flex-direction: column;
+        justify-content: center;
     }
     .p-card{
         width: 100%;
         margin-bottom: 1.5rem;
-    }
+    } */
 }

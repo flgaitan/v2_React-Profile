@@ -17,7 +17,7 @@ function App() {
         return <Aboutme />
       case "projects":
         return <Projects />
-      case "contacts":
+      case "contact":
         return <Contact />
       case "resume":
         return <Resume />

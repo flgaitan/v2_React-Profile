@@ -15,7 +15,7 @@ function MyProjects () {
         <div className="pcards">
             <ProjectItem image={Work1} heading="PROJECT 1" text="Madlib Game" github="https://github.com/TheIncredibleHulkSmash/RandomMadlib" heroku="https://theincrediblehulksmash.github.io/RandomMadlib/"/>
             <ProjectItem image={Work2} heading="PROJECT 2" text="Feast of Friends potluck app" github="https://github.com/A-Tribu/feast-of-friends" heroku="https://feast-of-friends.herokuapp.com/"/>
-            <ProjectItem image={Work3} heading="PROJECT 3" text="Caption this" github="https://github.com/flgaitan?tab=repositories" heroku="https://github.com/flgaitan" />
+            <ProjectItem image={Work3} heading="PROJECT 3" text="Meal Train" github="https://github.com/TrilogyHi5/meal-train" heroku="https://meal-train.herokuapp.com/" />
           
         </div>
         <div className="pcards">

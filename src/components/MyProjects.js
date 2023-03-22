@@ -2,10 +2,10 @@ import ProjectItem from "./ProjectItem";
 import "./ProjectStyles.css";
 import Work2 from '../assets/fof.jpeg'
 import Work1 from '../assets/rm.png'
-import Work3 from '../assets/8.jpeg'
-import Work4 from '../assets/9.jpeg'
-import Work5 from '../assets/11.jpeg'
-import Work6 from '../assets/6.jpg'
+import Work3 from '../assets/meal-train-final.png'
+import Work4 from '../assets/6.jpg'
+import Work5 from '../assets/9.jpeg'
+import Work6 from '../assets/11.jpeg'
 
 function MyProjects () {
     return (
